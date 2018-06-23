@@ -1,0 +1,33 @@
+body{
+    color: green;
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+h1{
+    color: yellow;
+    font-size: 100px;
+    text-shadow: -1px 10px 10px green;
+    text-decoration: underline;
+    margin: 0px;
+    font-family: 'Kaushan Script';
+}
+
+p{
+    color: blue;
+    font-weight: bold;
+}
+.meninoney{
+    background-color: yellow;
+    margin: 20px 200px;
+}
+.destaque{
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+}
+
+#meninoney{
+    width: 100%;
+    box-shadow: 1px 10px 10px;
+}
